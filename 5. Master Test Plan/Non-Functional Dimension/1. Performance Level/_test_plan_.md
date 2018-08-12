@@ -1,4 +1,4 @@
-###### PERFORMANCE TEST
+### PERFORMANCE TEST
 
 This test is to determine how system performs in terms of responsiveness and stability under particular workload
 
@@ -6,11 +6,6 @@ Serve purposes of investigating, measuring, validating or verifying other qualit
 
 Determine operability, stability, resource consumption and other attributes of app quality  
 Ensure app performs acceptably under certain performance requirements such as huge number of users
-
-| Data | Description |
-| ----------- | ----------- |
-| System Version | v1.0 |
-| Update Information Date | 5-AUG-2018 |
 
 
 ###### TEST CASE TO RTM
@@ -101,3 +96,17 @@ Evaluate test output against required output
 
 9. Assumptions and Constraints
 Identify any assumptions made and constraints or limitations imposed in the description of the test case due to system or test conditions (e.g., limitations on timing, interfaces, equipment, personnel, and database/data files. If waivers or exceptions to specified limits and parameters are approved, they are to be identified and their effects and impacts upon the test case/script described
+
+###### TEST CASE INFORMATION
+1. Assumptions  
+Describe any assumptions affecting the creation and/or execution of the test cases/scripts in general. Assumptions made specific to an individual test case/script are to be described in a later section corresponding with that particular test case/script.
+2. Constraints  
+Describe any limitations or constraints that have a significant impact on the test cases/scripts in general. Constraints specific to an individual test case/script are to be described in a later section corresponding with that particular test case/script. Constraints may be imposed by any of the following (the list is not exhaustive):  
+Hardware or software environment  
+End-user environment  
+Availability of resources  
+Interoperability requirements  
+Interface/protocol requirements  
+Data repository and distribution requirements.
+3. Risks  
+Describe any risks associated with the test cases/scripts and proposed mitigation strategies.

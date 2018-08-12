@@ -3,8 +3,6 @@
 | Priority | **Medium** |
 | Automation | **No** |
 
-
-
 ###### TS1: load testing
 - [ ] ID1: response time of app to various types of requests
 
