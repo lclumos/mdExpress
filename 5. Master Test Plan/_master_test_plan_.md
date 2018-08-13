@@ -7,7 +7,7 @@ Provide information on how the development and distribution of the Test Case Spe
 | ----------- | ----------- |
 | Document Version | **v1.0** |
 | System Version | **v1.0** |
-| Latest Information Date | 5-AUG-2018 |
+| Latest Information Date | 1-AUG-2018 |
 
 ###### APPROVALS
 The undersigned acknowledge that they have reviewed the Test Case Specification and agree with the information presented within this document. Changes to this Test Case Specification will be coordinated with, and approved by, the undersigned, or their designated representatives.  
@@ -32,7 +32,11 @@ Each plan dimension is further separated into different levels. Each level slide
 Test cases that are related to one another may be grouped into a test suite, so that they can be tested and verified together. Either the input of one test case could be the output of another, or different steps of the same business and/or operation procedure, or testing these test cases together delivers great convenience.  
 
 > **Test Case**  
-Specific step or situation to attain perceivable results. Each test case has its own implementation, and must consist of, and not limit to: pre-conditions, execution steps, post-Conditions and expected results. The details of a test case is its specification.
+Specific step or situation to attain perceivable results. Each test case has its own implementation, and must consist of, and not limit to: pre-conditions, execution steps, post-Conditions and expected results. The details of a test case is its specification.   
+Provide an overview of the test cases/scripts that will be executed. List each test case/script by its project-unique identifier and title. Test cases/scripts may be grouped by test function (e.g., user acceptance testing, Section 508 testing, system testing, regression testing, etc.). If test case/script information is maintained in an automated tool, this information may be exported or printed from the tool and included as an appendix to this document that is referenced here.
+
+> **Test Case Detail**  
+Provide details for each test case/script identified in the Test Case Summary section. There should be a separate detail section for each test case/script. If test case/script information is maintained in an automated tool, the information described in the following sub-sections should be collected for each test case/script. This information may be printed from the tool and included as an appendix to this document that is referenced here. The test case/script details may also be printed in a tabular format to allow groupings of test cases/scripts with similar characteristics to reduce the volume of reported information and make it easier to review the content.
 
 ###### APPENDIX A: ACRONYMS
 Provide a list of acronyms and associated literal translations used within the document. List the acronyms in alphabetical order using a tabular format as depicted below.
