@@ -1,6 +1,12 @@
 # BUSINESS PLAN
 This business plan is intended solely for informational purposes to assist in determining if you with a due-diligence investigation of this project.  The information contained herein is believed to be reliable, but the management team makes no representations or warranties with respect to this information.  The financial projections that are part of this plan represent estimates based on extensive research and on assumptions considered reasonable, but they are of course not guaranteed.  The contents of this plan are confidential and are not to be reproduced with express written consent.
 
+| Criteria | Information |
+| ----------- | ----------- |
+| Document Version | **v1.0** |
+| System Version | **v1.0** |
+| Latest Information Date | 1-SEP-2018 |
+
 ###### EXECUTIVE SUMMARY
 The Executive Summary of a Business Plan is a distillation of the entire plan. The Summary should stand alone and should not refer to other parts of the plan.
 
