@@ -7,12 +7,12 @@ Customer groups represent separate segments if:
 * Their needs require and justify a distinct offer
 * They are reached through different Distribution Channels
 * They require different types of relationships
-* They have substantially different profitabilities
+* They have substantially different profitability
 * They are willing to pay for different aspects of the offer
 
 Examples of Customer Segments:
 * Mass Market: Focus on one large group of customers with broadly similar needs and problems.
-* Niche Market:Target markets cater to specific Customer Segments, Value Propositions, Distribution Channels and Customer Relationships.
+* Niche Market: Target markets cater to specific Customer Segments, Value Propositions, Distribution Channels and Customer Relationships.
 * Segmented: Distinguish between market segments with slightly different needs and problems (customer's income, interests etc.)
 * Diversified: Serve very different Customer Segments with completely distinct needs and problems (i.e. Amazon with cloud computing vs. retails)
 * Multi-sided platforms: Serve two or more interdependent Customer Segments.
