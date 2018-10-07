@@ -83,3 +83,9 @@ Storytelling Techniques:
 * Comic Strip: Use a series of cartoon images to tell the story of a protagonist in a tangible way.
 
 ###### SCENARIOS
+
+Scenarios can be useful in guiding the design of new business models or innovating around existing models. Its primary function is to inform the business model development process by making the design context specific and detailed.
+
+2 types of scenarios:
+* Describe different customer settings: how products or services are used, what kinds of customers use them, or customer concerns, desires, and objectives. This builds on customer insights, but also goes further by incorporating knowledge about customers into a set of distinct and concrete images. Revolving through all building blocks of Business Plan Canvas, we can develop different scenarios for different blocks, and within specific block. For example once we have generated scenarios for different Customer Segments, we can ask ourselves whether a single business model is sufficient to serve them all, or if we need to adapt the model to each segment.
+* Describe future environments in which a business model might compete. The goal is not to predict future but rather to imagine possible futures in concrete detail. The steps can be (1) develop a set of future scenarios based on two or more main criteria, (2) describe each scenario with a story that outlines the main elements of the scenario, and (3) develop one or more appropriate business models for each scenario. The goal of combining scenarios with business model innovation efforts is to help organization prepare for the future. Ideally we should develop between two and four different scenarios based on two or more criteria in order to run a good business model scenario workshop.
