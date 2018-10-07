@@ -46,7 +46,17 @@ The Ideation Process:
 
 ###### VISUAL THINKING
 
+Visual thinking is indispensable to working with business models. Because business models are complex concepts composed of various building blocks and their interrelationships, it is difficult to truly understand a model without sketching it out.
+
+4 processes improved by visual thinking:
+* Understanding of the Essence: Visual Grammar - Capturing the Big Picture - Seeing Relationships
+* Dialogue Enhanced: Collective Reference Point - Shared Language - Joint Understanding
+* Exploration of Ideas: Ideas Triggered - Play
+* Communication Improved: Create Company-Wide Understanding - Selling Internally - Selling Externally
+
 ###### PROTOTYPING
+
+
 
 ###### STORYTELLING
 
