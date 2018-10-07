@@ -68,6 +68,18 @@ A business model prototype can be anything from a rough sketch of an idea on a n
 
 ###### STORYTELLING
 
+By their very nature, new or innovative business models can be difficult to describe and understand. They challenge th status quo by arranging things in unfamiliar ways. They force listeners to open their minds to new possibilities.
 
+3 potential usages:
+* Introducing the New: Pitching business model ideas to existing management.
+* Pitching to Investor: Explaining to investors and other shareholders how to create value, how to make money by doing so.
+* Engaging Employees: Delivering a crystal clear understanding of the new model and what it means for employees of the company.
+
+Storytelling Techniques:
+* Talk & Image: Tell the story of a protagonist and his environment using one or several images.
+* Video Clip: Tell the story of a protagonist and his environment using video to blur lines between reality and fiction.
+* Role Play: Have people play the roles of a story's protagonist to make the scenario real and tangible.
+* Text & Image: Tell the story of a protagonist and his environment using text and one or several images.
+* Comic Strip: Use a series of cartoon images to tell the story of a protagonist in a tangible way.
 
 ###### SCENARIOS
