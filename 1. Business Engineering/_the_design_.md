@@ -56,8 +56,18 @@ Visual thinking is indispensable to working with business models. Because busine
 
 ###### PROTOTYPING
 
+Prototyping is a powerful tool for developing new, innovative business models. A business model prototype can take the form of a simple sketch, a fully thought-through concept described with the Business Model Canvas, or a spreadsheet that simulates the financial workings of a new business.
 
+Making and manipulating a business model prototype forces us to address issues of structure, relationship, and logic in ways unavailable through mere thought and discussion. We need to construct multiple prototypes of our business model at different levels of refinement. Interaction with prototypes produces ideas far more readily than discussion.
+
+A business model prototype can be anything from a rough sketch of an idea on a napkin to a detailed Business Model Canvas to a field-testable business model.
+* Napkin sketch: Outline and patch a rough idea, draw a simple business model canvas, describe the idea using only key elements.
+* Elaborated canvas: Explore what it would take to make the idea work, develop a more elaborate canvas to explorer all the elements needed to make the business model work.
+* Business case: Examine the viability of the idea, turn the detailed canvas into a spreadsheet to estimate your models' earning potential.
+* Field-test: Investigate customer acceptance and feasibility.
 
 ###### STORYTELLING
+
+
 
 ###### SCENARIOS
