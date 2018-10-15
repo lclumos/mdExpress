@@ -28,6 +28,21 @@ Project-Level Activities:
 
 ###### REQUIREMENT MANAGEMENT PLANNING
 
+Requirement planning provides guidance and direction on how requirements will be developed and managed throughout the project. The plan is developed, reviewed, and updated to reflect the specific activities of the life cycle domains from elicitation, analysis, monitoring, and controlling through solution evaluation.
+
+Requirement Management Planning - Success Factors
+* Organization Commitment
+* Recognizing the Value of Requirement Management Planning
+* Stakeholder Engagement and Collaboration
+* Integration with Project Management Activities
+
+Requirement Management Planning - Activities
+* Stakeholder Analysis and Engagement
+* Requirement Management Planning Initiation
+* Develop the Requirements Management Plan
+* Launch the Requirements Management Plan
+
+
 ###### REQUIREMENT ELICITATION
 
 ###### REQUIREMENT ANALYSIS
