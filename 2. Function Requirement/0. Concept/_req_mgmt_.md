@@ -50,8 +50,76 @@ Requirement Management Planning - Activities
 
 ###### REQUIREMENT ELICITATION
 
+Elicitation is a discovery process used to bring forward or produce information relevant to the project or program by drawing out information from stakeholders and other sources.
+
+Requirements Elicitation Success Factors
+* Planning and Preparation:
+* Active Stakeholder Engagement:
+* Defined Business/Organizational Need:
+* Domain Knowledge:
+
+Requirements Elicitation Activities
+* Plan for Elicitation:
+* Define Types of Requirements:
+* Conduct Elicitation Activities:
+* Document and Communicate Results:
+
+Requirement Elicitation Techniques
+* Interviews:
+* Facilitated Workshops:
+* Focus Groups:
+* Brainstorming:
+* Questionnaires and Surveys:
+* Document Analysis:
+* Interface Analysis:
+* Prototypes:
+* Observation:
+
 ###### REQUIREMENT ANALYSIS
+
+Analysis is the process used to examine, decompose, and synthesize information to further understand it and the features and capabilities of the solution. Analysis is performed to examine the information to lower levels of detail to develop a set of requirements.
+
+Requirements Analysis Success Factors
+* Skilled Resources:
+* Communication:
+* Collaboration:
+
+Requirements Analysis Activities
+* Plan for Analysis:
+* Conduct Analysis Activities:
+* Document and Communicate Results:
+
+Requirements Analysis Techniques
+* Backlog Management and Prioritization:
+* Modeling:
 
 ###### REQUIREMENT CONTROLLING AND MONITORING
 
+Requirement monitoring and controlling domain iteratively monitors the status of requirements and manages the requirements baseline over the project life cycle. The process and related activities involved in the development and management of requirements are distinct from the project management life cycle.
+
+The requirements traceability matrix and associated attributes created during elicitation and analysis are applied in requirements monitoring to help control product and project scope. Traceability is updated as changes are approved. Approved requirements are baselined and tracked, to include linkages among parent and child requirements. As new requirements are identified, they are assessed for impacts to the project and product and presetned to stakeholders for approval.
+
+Requirements instability is a leading cause of scope creep, and the requirements monitoring and controlling activities ensure that requested changes to requirements are processed through the Perform Integrated Change Control process.
+
+Tracebility provides the ability to track product requirements from their origin to the activities and deliverables that satisfy them. Traceability is "bidirectional" or "forward and backward". Not all projects require the same amount of tracebility documentation, so the specific deliverables that are traceable for the project are determined during requirement management planning.
+
+Requirements Monitoring and Controlling Success Factors
+
+Requirements Monitoring and Controlling Activities
+* Prepare for Requirements Monitoring and Controlling:
+* Create Traceability Matrix:
+* Approve and Baseline Requirements:
+* Manage Requirements Change Requests:
+* Monitor Requirements Status:
+* Document and Communicate Results:
+
+Requirements Monitoring and Controlling Techniques
+* Dependency Analysis:
+* Impact Analysis:
+* Traceability Matrix:
+* Change Control Boards:
+
 ###### SOLUTION EVALUATION
+
+
+###### PROJECT OR PHASE CLOSURE
