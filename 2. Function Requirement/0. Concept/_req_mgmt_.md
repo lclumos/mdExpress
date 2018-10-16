@@ -31,17 +31,22 @@ Project-Level Activities:
 Requirement planning provides guidance and direction on how requirements will be developed and managed throughout the project. The plan is developed, reviewed, and updated to reflect the specific activities of the life cycle domains from elicitation, analysis, monitoring, and controlling through solution evaluation.
 
 Requirement Management Planning - Success Factors
-* Organization Commitment
-* Recognizing the Value of Requirement Management Planning
-* Stakeholder Engagement and Collaboration
-* Integration with Project Management Activities
+* Organization Commitment: The requirements process should be aligned with organizational goals and values, and a sponsor should be engaged.
+* Recognizing the Value of Requirement Management Planning: Requirements management planning should be recognized as a valuable domain that provides a positive potential return on investment for organizational management, stakeholders, project managers, and team members.
+* Stakeholder Engagement and Collaboration: Stakeholder analysis is often conducted during the planning domain so that the project team can understand the stakeholder impacts and influences on the requirements process as early as possible.
+* Integration with Project Management Activities: Requirements development and management do not exist in isolation from other project management processes. A successful requirements plan requires integrated execution with the project management plan.
 
 Requirement Management Planning - Activities
-* Stakeholder Analysis and Engagement
-* Requirement Management Planning Initiation
-* Develop the Requirements Management Plan
-* Launch the Requirements Management Plan
-
+* Stakeholder Analysis and Engagement: Stakeholder analysis and engagement is critical to the success of requirements management plan. Further stakeholder identification is conducted during requirements planning activities to set expectations with the key stakeholders to ensure they understand the requirements activities that will be performed.
+[1] Generate or Refine the Stakeholder Register: An initial stakeholder register may have been developed as a part of the needs assessment, or the work to produce the project management plan, stakeholder management plan, communications plan, or other plan documents. The register may include stakeholders such as those who will provide sponsorship for the projects, benefit from the project outcomes, be responsible for the project outcomes, define the product service or result, provide support, articulate the benefits, provide financial backing, use the solution, and implement the solution.   
+[2] Group and Characterize Stakeholders: Once the stakeholder register is complete, an analysis of the characteristics of the identified stakeholders should be performed. Some commonly applied characterisitics for consideration are attitude, complexity, culture, experience, level of influence, location, and availability. It is important to make sure that there are clear roles, responsibilities, and accountabilities. A commonly used approach to organizing these assignments, known as either RAIC or ACRI, characterizes and groups stakeholders into one or more of 4 categories: Responsibile (perform the work) - Accountable (approve the work) - Consulted (to be asked for opinions) - Informed (apprise progress).  
+[3] Management Stakeholder Engagement: Through proactive communication and working directly with stakeholders to meet the project objectives, stakeholders are engaged and managed throughout the requirements life cycle process.  
+* Requirements Management Planning Initiation: It is essential at the start of the requirements process to clearly understand the initial project scope statement and project objectives.
+[1] Gather Project Information: Information can be leveraged to provide the context for the scope statement which may include (but not limited to): organizational strategic plans, feasibility studies, needs assessments, business cases, concept of operations documents, program management plan (when applicable), project charter, project management plan, project scope statement, contractual documents, and customer specifications.   
+[2] Identify Organizational Standards and Guidance: Oeganizations establish operating procedures, standards, and predeveloped tools, templates, techniques, and process documents.  
+* Develop the Requirements Management Plan: Requirements management plan is a component of the project management plan and describes how the requirement activities of the project will be planned and managed. The project life cycle strong influences how requirements are planned, developed, and managed.
+[1] Core components of the Requirements Management Plan: This plan focuses on the scope of requirements activities to be conducted and deliverables to be produced. The core components of the requirements management plan can include (but not limited to): How requirements should be developed, tracked, managed, validated, and reported; what roles and responsibilities are for those participating in requirements activities; what the authorization and key decision-making process is; how requirements should be prioritized, approved, and maintained; how acceptance criteria are determined for the requirements and solutions; what product metrics are used and the rationale for using them; what the traceability structure is and the implementation to reflect which requirement attributes will be captured on the traceability matrix; and how requirements will be documented and communicated to stakeholders.  
+* Launch the Requirements Management Plan: Once the requirements management plan is complete, it should be reviewed with key stakeholders to reduce the risk of stakeholders failing to support the work to be performed. There may be anorganizational or project life cycle process that defines how approval should be attained.
 
 ###### REQUIREMENT ELICITATION
 
