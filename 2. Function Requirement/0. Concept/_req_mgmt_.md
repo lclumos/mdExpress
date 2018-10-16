@@ -121,5 +121,46 @@ Requirements Monitoring and Controlling Techniques
 
 ###### SOLUTION EVALUATION
 
+Solution Evaluation is the domain of business analysis concerned with activities performed to validate a solution that is about to be or that has already been implemented. Evaluation determines how well a solution meets the business needs expressed by stakeholders, including delivering valur to customer. Evaluation of an implemented solution can also identify new or changed requirements that may lead to solution refinement or new solutions.
+
+Testing, analysis and other means of demonstrating that the agreed-upon requirements have been met (verification activities) work alongside activities that demonstrate the suitability of the solution for its intended purpose (validation activities).
+
+Solution Evaluation Success Factors
+* Approach Evaluation as a Process:
+
+Solution Evaluation Activities
+* Plan for Evaluation:
+* Validation During Solution Evaluation:
+* Document and Communicate Results:
+
+Solution Evaluation Techniques
+* Solicit Inputs:
 
 ###### PROJECT OR PHASE CLOSURE
+
+The outcomes of solution evaluation activities lead to a go/no-go decision, and if a go decision is reached, signoff of the solution is obtained.
+
+Evaluating the long-term performance of the solution is part of assessing the business benefits realized by implementing the solution.
+
+Project or phase closure is the process of finalizing all activities across all of the Project Management Process Groups to formally complete the project or phase. Closure may include (1) documenting lessons learned and providing knowledge transfer, (2) supporting transition to operations and (3) enabling the organization to sustain long-term performance benefits over time.
+
+Activities necessary for administrative closure of the program, project or iteration, including:
+* Activities necessary to satisfy completion or exit criteria for the program, project, or iteration, including the evaluation of the acceptance criteria performed during the solution evaluation domain.
+* Activities necessary to transfer the product, service, or result to the next program, project, or iteration or to production and/or operations.
+* Activities necessary to collect project or iteration records, audit project success or failure, gather lessons learned, and archive related information for future use by the organization.
+
+Project or Phase Closure Success Factors
+* Documented Transition Plan
+* Final Customer Acceptance
+* Defined Metrics to Measure Benefits Realization
+
+Project or Phase Closure Activities
+* Document
+* Reuse
+* Lessons Learned and Providing for Knowledge Transfer
+* Support Transition to Operations
+
+Project or Phase Closure Techniques
+* Expert Judgement
+* Analytical Techniques
+* Meetings 
