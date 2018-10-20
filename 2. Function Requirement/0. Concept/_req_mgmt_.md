@@ -91,17 +91,35 @@ Requirement Elicitation Techniques
 Analysis is the process used to examine, decompose, and synthesize information to further understand it and the features and capabilities of the solution. Analysis is performed to examine the information to lower levels of detail to develop a set of requirements.
 
 Requirements Analysis Success Factors
-* Skilled Resources:
-* Communication:
-* Collaboration:
+* Skilled Resources: Having the correct talent is vital to conducting meaningful analysis.
+* Communication: Throughout analysis, frequent and timely communication with the project team, stakeholders etc., is key to improve the quality of the requirements.
+* Collaboration: The success of analysis greatly depends on establishing a collaborative working relationship between the stakeholders involved in the requirements effort and the person performing the analysis.
 
 Requirements Analysis Activities
-* Plan for Analysis:
-* Conduct Analysis Activities:
-* Document and Communicate Results:
+* Plan for Analysis: It is essential to establish a strategy for how analysis will be performed. This strategy includes determining what activities and techniques will be used to yield the greatest benefit based on what is known about the project or program. Evaluate what types of analyses will be performed and identify the appropriate analysis techniques and tools to employ. Visual models, for example, provide context to better understand and clearly convey information. It is important to identify existing models in the organization to leverage as a starting point for analysis.
+* Conduct Analysis Activities: Requirements analysis is more than analyzing information to further understand it, complete it, and improve it. It involves structuring  requirements in different views to capture varying perspectives, evaluating requirements for certain attributes, and integrating the collective information into written documentation.  
+[1] Identify, analyze, and document requirements attributes: Requirements attributes are specific characteristics or traits that capture key information about a requirement, such as the source, owner priority, complexity, rationale, and status. This information is used to aid in requirements traceability and monitoring throughout the project life cycle.
+[2] Select the requirement models: A component of analysis is the development of graphical or text models, which are helpful in finding gaps in information and identifying extraneous information. As some models are better suited for certain environments, it is important to select requirements models based on specific characteristics, type of project, methodology, timing, purpose, and level of abstraction.
+[3] Prioritize requirements: It is an important step to manage product scope and is used to rank requirements in the order of importance. It is used to assist key stakeholders in making trade-offs between requirements and to analyze the relative value of requirements against one another. Since it may not be feasible to implement all requirements within the project constraints, priority helps to focus the stakeholders on the most critical requirements based on the priority criteria. Common types of criteria include: Value, Risk Level, Complexity, Cost, and Regulatory Constraints. Some commonly used techniques include MOSCOW, voting, and time-boxing etc.
+[4] Allocate and derive requirements: Requirements allocation is the process of assigning requirements to functions, solution components, and organizational entities. Requirements are subsequently allocated to specific releases or iterations. Allocation helps assure that the proposed solution will be delivered in a manner and order that maximize value to the business. How requirements are allocated can change the amount of value delivered by the solution. Deriving requirements is the process of analyzing requirements into more detail to extrapolate more granular discrete requirements and remove ambiguity. When requirements are broadly defined, they should be progressively elaborated to a greater level of detail or decomposed into multiple discrete requirements to aid in the implementation of higher-level requirements or to reduce ambiguity. This process results in derived requirements, which are important to confirm that the required functionality is present. It provides the basis for subsequent verification and validation.
+[5] Verify requirements: Requirements should be scrutinized to confirm integrity and ensure that quality standards are being met. Requirements verification is the process of reviewing requirements to ensure the requirements are constructed properly and are error-free. A successful verification process requires that specific quality characteristics are known and adhered to. The following characteristics are present in all well-written, high-quality requirements:
+Unambiguous: Single meaning and is interpreted the same way by intended audience.  
+Consistent: Requirement does not contradict or duplicate other requirements.  
+Correct: Accurately presents the functionality to be build as defined by stakeholders and other requirement sources.  
+Complete: Requirement includes necessary information and valid conditions necessary to design, build, and test the solution.  
+Measurable: Requirement can be proven or verified through analysis, test, inspection, or demonstration.  
+Feasible: Requirement can be implemented within the known constraints and capabilities of the operating environment.  
+Traceable: Requirement has a unique identifier and can be referenced throughout the life cycle and requirements hierarchy.  
+Precise: Requirement states precisely what the solution to the business problem is.  
+Testable: Requirement should be written in a way that allows it to be tested.  
+[6] Validate requirements: Requirements are validated to ensure that the product, service, or result represents the needs of the business and relevant stakeholders. Validation is a process used to evaluate that all requirements accurately reflect the intent of the stakeholder, thereby ensuring requirements meet stakeholder expectations.  
+* Document and Communicate Results: Analysis is conducted with the intent of documenting the results in an accessible and consistent manner to meet the needs of the intended audience and the project life cycle being used. The requirements documentation may be created in various forms and levels of formality, such as specifications, written text, models, etc. These different representations should be selected based on the type of project life cycle, organizational or industry practices, and stakeholder preferences.
 
 Requirements Analysis Techniques
-* Backlog Management and Priority:
+* Backlog Management and Priority: In adaptive life cycles, user stories populate a backlog and are used as a basis for prioritizing development. Since decisions regarding priorities are often complex, a structured approach may be necessary to simplify the process.  
+[1] MOSCOW: "Must have" means the requirement is fundamental to the success of the solution. "Should have" defines the requirement as important, but project success does not rely on it. "Could have" means the requirement can be eliminated without impacting the project. "Wont have" means the requirement will not be delivered during the current release or iteration.  
+[2] Voting: Voting is a participatory decision model that allows participants to distribute a predetermined number of votes to a list of requirements.  
+[3] Time-boxing: This technique ranks requirements based on the capacity of work that can be accomplished within a specified period of time. It is most often used for projects with tight schedule constraints and allows for control of the project schedule at the lowest level.  
 * Modeling:
 
 ###### REQUIREMENT CONTROLLING AND MONITORING
