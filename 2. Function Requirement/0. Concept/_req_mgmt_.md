@@ -166,15 +166,15 @@ Solution Evaluation is the domain of business analysis concerned with activities
 Testing, analysis and other means of demonstrating that the agreed-upon requirements have been met (verification activities) work alongside activities that demonstrate the suitability of the solution for its intended purpose (validation activities).
 
 Solution Evaluation Success Factors
-* Approach Evaluation as a Process:
+* Approach Evaluation as a Process: Evaluation is most successful when treated as a process rather than a discrete event. Acceptance criteria, when established early, can serve as a foundation for evaluating candidate solutions, are useful in the development of verification strategies, and can identify which areas of a solution will need the most testing.
 
 Solution Evaluation Activities
-* Plan for Evaluation:
-* Validation During Solution Evaluation:
-* Document and Communicate Results:
+* Plan for Evaluation: Planning for evaluation should begin in requirements management planning early in the project and should consider the interactions with other project management related activities. Evaluation activities should be reflected in the overall project baseline.  
+* Validation During Solution Evaluation: The validation process ensures the solution is working as intended and meets the stakeholder and business needs on which its documented requirements are based. Some approaches to validation attempt to draw a distinction between validation of the requirements set and validation of the solution or component of the solution.
+* Document and Communicate Results: There are many available methods to document and communicate the evaluation results. The approach should be selected early in a project and documented in the requirements management plan. The documentation approach may depend on factors such as the size and complexity of the project, the nature of the solution, contractual or regulatory constraints, stakeholder preferences, or the predictive or adaptive nature of the project life cycle.
 
 Solution Evaluation Techniques
-* Solicit Inputs:
+* Solicit Inputs: One general approach to evaluating a solution is to solicit input from stakeholders, end users, or people with specific related expertise to validate that the product, service, or result is performing as intended. A variety of formal and informal techniques exists, including reviews, focus groups, surveys, brainstorming, checklists, multi-voting, or the Delphi technique. Usage context documentation generated during the requirements elicitation and/or analysis domains may also be useful tools to support the collection of subjective inputs. (1) Testing - either exploratory or user acceptance testing, (2) Demonstration - examines the solution, generally by operating it, to prove or show that it meets its intended functions.
 
 ###### PROJECT OR PHASE CLOSURE
 
