@@ -190,17 +190,17 @@ Activities necessary for administrative closure of the program, project or itera
 * Activities necessary to collect project or iteration records, audit project success or failure, gather lessons learned, and archive related information for future use by the organization.
 
 Project or Phase Closure Success Factors
-* Documented Transition Plan:
-* Final Customer Acceptance:
-* Defined Metrics to Measure Benefits Realization:
+* Documented Transition Plan: The transition plan provides the transition team with project files, closure documents, and historical information for the project as a part of the transition for project or phase closure.
+* Final Customer Acceptance: Customer acceptance, internal or external, allows the project to transition into closure activities and allows the organization to transition to long-term performance benefits realization monitoring.
+* Defined Metrics to Measure Benefits Realization: Metrics measuring the benefits realized by the product, service, or result provide valuable feedback to the stakeholders.
 
 Project or Phase Closure Activities
-* Document:
-* Reuse:
-* Lessons Learned and Providing for Knowledge Transfer:
-* Support Transition to Operations:
+* Document: Most organizations find it important to document whether they are satisfied with the product, service, or result at the end of a program, project, or iteration. The documentation may be updated once long-term performance benefits have been realized.
+* Reuse: Reuse involves leveraging existing knowledge across projects and programs with similar needs. Requirements reuse should be planned for during business analysis planning and performed throughout the various phases of the project. When reuse is planned and executed effectively during the project or program, it takes advantage of work done previously, which may result in improved productivity, lower costs, increased service delivery, and reduced rework.
+* Lessons Learned and Providing for Knowledge Transfer: Collecting and documenting lessons learned is a critical means of transferring knowledge to other programs, projects, or iterations. Organizations that are good at knowledge transfer conduct the following steps of the knowledge transfer life cycle: (1) Identifying - determining what knowledge needs to be transferred, (2) Capturing - accumulating the essential knowledge that needs to be transferred, (3) Sharing - establishing methods for transferring the knowledge, (4) Applying - using the knowledge that is transferred, (5) Assessing - evaluating the benefits of the knowledge that is transferred.
+* Support Transition to Operations: Programs, projects, or iterations deliver benefits by enhancing current capabilities or developing new capabilities that support the sponsoring organizations' strategic goals and objectives. Benefits may be realized incrementally upon completion of a project or iteration or may be realized over the longer term. Transition to operations may be a formal activity between functions within a single organization or may involve an agreement with an entity outside the organization. The receiving entity should have a clear understanding of the capabilities or results to be transitioned and what is required for the entity to successfully sustain or attain benefits.
 
 Project or Phase Closure Techniques
-* Expert Judgment:
-* Analytical Techniques:
-* Meetings:
+* Expert Judgment: Expert judgment is applied when performing administrative closure activities. These experts ensure the closure of the program, project, or iteration is performed to the appropriate standards. Expertise is available from many sources, including but not limited to (1) business analysis and requirements professionals, (2) project management office, and (3) professional and technical associations.
+* Analytical Techniques: Many of the analytical techniques previously described may also be used to determine the limitations of the implemented solutions. Other analytical techniques used in project or phase closure may include: Benchmarking, Gap analysis, Regression analysis, and Trend analysis.
+* Meetings: Meetings are used to discuss and address topics related to project or phase closure activities. These meetings are used to understand the successes and challenges of an initiative, as well as to identify areas of improvement.
